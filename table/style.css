@@ -1,0 +1,20 @@
+body {
+  font-family: fantasy; copperplate;
+  color: #8EAAB3;
+  -webkit-text-stroke-width: .5px;
+  -webkit-text-stroke-color: #DEE6E9;
+  background-color: #EADFD5;
+}
+table {
+  width: 268px; height: 420px;
+}
+th, td {
+  padding: 15px;
+  background-color: #FBF6EA;
+  border: 15px solid #8EAAB3;
+}
+th {
+border-bottom: 8px solid #8EAAB3;
+border-top: 8px solid #8EAAB3;
+font-size: 30px;
+}
